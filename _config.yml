@@ -1,0 +1,39 @@
+title: Data Structures and Algorithms
+subtitle: spring 2025
+lang: en
+baseurl: "/spring-2025"
+url: "https://tira.mooc.fi"
+theme-color: '#e76c97'
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: ollpu/jekyll-course-theme@v2
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  # Uncomment for Finnish quotes:
+  smart_quotes: rsquo,rsquo,rdquo,rdquo
+
+permalink: /:title/
+
+hide_other_section_menus: true
+
+# If you want a collection of pages for course material:
+collections:
+  # In Finnish you might want to write e.g. "materiaali:" instead.
+  material_1:
+    output: true
+    permalink: /:title/
+  material_2:
+    output: true
+    permalink: /:title/
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
