@@ -11,4 +11,4 @@ To return your solutions, you need a mooc.fi account. If you do not have one yet
 
 The solutions are returned to the CSES system and are checked automatically.
 
-* [Go to exercises](https://cses.fi/dsa24k/list/)
+* [Link to exercises to be added]()
