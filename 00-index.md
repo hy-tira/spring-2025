@@ -29,13 +29,13 @@ To complete a part, you must solve at least 5 problems from each week. The gradi
 * 55-59 problems: Grade 4
 * 60-64 problems: Grade 5
 
-The deadline for Part I is Sunday, March 9 at 23:59. The course materials and exercise problems will be published according to the following schedule:
+The deadline for Part I is Sunday, March 9 at 23:59. The exercise problems will be published according to the following schedule:
 
 {: .cell-w-3 }
 Week | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 Publication date | 17.1. | 17.1. | 23.1. | 24.1. | 30.1. | 31.1. | 6.2. | 7.2. |
 
-The deadline for Part II is Sunday, May 11 at 23:59. The course materials and exercise problems will be published according to the following schedule:
+The deadline for Part II is Sunday, May 11 at 23:59. The exercise problems will be published according to the following schedule:
 
 {: .cell-w-3 }
 Week | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 |
