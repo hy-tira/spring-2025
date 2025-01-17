@@ -9,15 +9,25 @@ The course consists of two five credit course units, Part I and Part II. You can
 
 The course is completed by solving automatically checked exercises. The course format is the same for degree students of the University of Helsinki and for Open University students.
 
-## Lectures
+No pre-registration is needed. Instructions for registration will be given at the end of the course.
+
+## Material and Lectures
+
+The self-study material found on this MOOC page is sufficient to complete the course. 
+
+Part I covers the sections 1–8 (one section per week).
+
+Part II covers the sections 9–16.
 
 The course lectures take place on Fridays at 10-12 on the Exactum Campus (Room CK122 in the Exactum building). Video recordings of the lectures will be made available.
 
 Lecture dates for part I: 17.1., 24.1., 31.1, 7.2., 14.2., 21.2., 28.2.
 
-Lecture dates for part II: 14.3., 21.3., 28.3., 4.4., 11.4., 25.4., 2.5.
+Lecture dates for part II: 14.3., 21.3., 28.3., 4.4., 11.4., 25.4.
 
-## Exercises
+The course can be completed without following the lectures.
+
+## Exercises and Grading
 
 Each part consists of 8 weeks with 8 exercise problems in each week. All exercises of a part have the same deadline and you can solve them at your own pace.
 
