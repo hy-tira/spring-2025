@@ -57,7 +57,7 @@ Guidance and help is provided on Discord, where you can discuss with course orga
 
 In person guidance is available on the Kumpula Campus, room BK107 in Exactum on Tuesdays 14-18, Wednesdays 12-15 and Thursdays 10-13. Both forms of guidance are shared with the Finnish version of the course.
 
-The responsible teacher of the course in Spring 2025 is Juha Kärkkäinen. You can contact him by [email](juha.karkkainen@helsinki.fi).
+The responsible teacher of the course in Spring 2025 is Juha Kärkkäinen. You can contact him by [email](mailto:juha.karkkainen@helsinki.fi).
 
 <!--
 Kurssi muodostuu kahdesta 5 op laajuisesta osasuorituksesta. Keväällä 2024 voit suorittaa kurssin verkkokurssina, jonka materiaali on tällä sivustolla.
