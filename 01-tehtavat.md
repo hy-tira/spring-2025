@@ -18,3 +18,5 @@ The solutions are returned to the CSES system and are checked automatically.
 * [Lecture on 17.1.2025](https://www.helsinki.fi/fi/unitube/video/98ef8827-74eb-4a56-9d54-f64e3c80d4d0)
 * [Lecture on 24.1.2025 (Part I)](https://www.helsinki.fi/fi/unitube/video/06a8e96b-cfbb-4bf3-b02d-f0308ab512ba)
 * [Lecture on 24.1.2025 (Part II)](https://www.helsinki.fi/fi/unitube/video/fc60c141-bacd-4fef-87b7-1882dc07a7cb)
+* [Lecture on 31.1.2025](https://www.helsinki.fi/fi/unitube/video/e77c8312-3ed9-4554-b25f-ec47d666f103)
+
