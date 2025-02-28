@@ -23,4 +23,5 @@ The solutions are returned to the CSES system and are checked automatically.
 * [Lecture on 14.2.2025: Own data structures](https://www.helsinki.fi/fi/unitube/video/4d63a5f6-7808-4500-8ddb-e9426875270b)
 * [Lecture on 21.2.2025: Trees and recursion (Part I)](https://www.helsinki.fi/fi/unitube/video/85284e2a-05a1-498b-9c6f-3c3a64fd8b29)
 * [Lecture on 21.2.2025: Trees and recursion (Part II)](https://www.helsinki.fi/fi/unitube/video/0d22a03d-c582-4ea6-afe5-a5fba0ba8d29)
+* [Lecture on 28.2.2025: Graph algorithms](https://www.helsinki.fi/fi/unitube/video/6087a2b2-c9de-4df6-94d7-5969071e9287)
  
