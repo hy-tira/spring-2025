@@ -24,4 +24,6 @@ The solutions are returned to the CSES system and are checked automatically.
 * [Lecture on 21.2.2025: Trees and recursion (Part I)](https://www.helsinki.fi/fi/unitube/video/85284e2a-05a1-498b-9c6f-3c3a64fd8b29)
 * [Lecture on 21.2.2025: Trees and recursion (Part II)](https://www.helsinki.fi/fi/unitube/video/0d22a03d-c582-4ea6-afe5-a5fba0ba8d29)
 * [Lecture on 28.2.2025: Graph algorithms](https://www.helsinki.fi/fi/unitube/video/6087a2b2-c9de-4df6-94d7-5969071e9287)
+* [Lecture on 14.3.2025: Search problems](https://www.helsinki.fi/fi/unitube/video/64b4a7c5-5b0f-481a-8ac0-78ab166b19d0)
+
  
