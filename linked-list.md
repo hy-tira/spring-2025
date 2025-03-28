@@ -27,6 +27,6 @@ The advantage of a linked list is that elements can be added and removed easily,
 100 | 101 | 102 | 103 | 104 | 105 | 106 | 107 | 108 | 109 | 110 | 111
 1 | 109 | 106 | 3 | 106 | 0 | 2 | 100 | 103 | 4 | 0 | 100
 
-This corresponds to the list $$[4,1,3,2]$$ with the beginning at the memory location 109.
+This corresponds to the list $$[4,1,2,3]$$ with the beginning at the memory location 109.
 
 The disadvantage of a linked list is that finding the memory location of an element can be slow. To find the location of an element, we have to follow the references starting from the beginning or the end of the list. Thus accessing an element in the middle of a list needs $$O(n)$$ time.
