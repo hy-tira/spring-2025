@@ -23,7 +23,7 @@ The course lectures take place on Fridays at 10-12 on the Exactum Campus (Room C
 
 Lecture dates for part I: 17.1., 24.1., 31.1, 7.2., 14.2., 21.2., 28.2.
 
-Lecture dates for part II: 14.3., 21.3., 28.3., 4.4., 11.4., 25.4. In addition, there will be a video only lecture published on 18.4. (no live lecture because of Easter).
+Lecture dates for part II: 14.3., 21.3., 28.3., 4.4., 11.4., 25.4. In addition, there will be a video only lecture published on 17.4. (no live lecture because of Easter).
 
 The course can be completed without following the lectures.
 
