@@ -29,5 +29,6 @@ The solutions are returned to the CSES system and are checked automatically.
 * [Lecture on 28.3.2025: More data structures](https://www.helsinki.fi/fi/unitube/video/fd5f401c-54f3-470d-b312-9921a2d0a468)
 * [Lecture on 4.4.2025: Binary search tree](https://www.helsinki.fi/fi/unitube/video/268c27b6-d536-4b3b-8eb0-7a4ae1f3b90d)
 * [Lecture on 11.4.2025: Directed graphs](https://www.helsinki.fi/fi/unitube/video/1e48d48f-892f-475a-a6e5-7a147071cd2c)
+* [Lecture on 17.4.2025: Shortest paths](https://www.helsinki.fi/fi/unitube/video/2da3edaf-0e44-4137-aa8f-7315d12741dc)
 
  
