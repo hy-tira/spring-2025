@@ -30,5 +30,8 @@ The solutions are returned to the CSES system and are checked automatically.
 * [Lecture on 4.4.2025: Binary search tree](https://www.helsinki.fi/fi/unitube/video/268c27b6-d536-4b3b-8eb0-7a4ae1f3b90d)
 * [Lecture on 11.4.2025: Directed graphs](https://www.helsinki.fi/fi/unitube/video/1e48d48f-892f-475a-a6e5-7a147071cd2c)
 * [Lecture on 17.4.2025: Shortest paths](https://www.helsinki.fi/fi/unitube/video/2da3edaf-0e44-4137-aa8f-7315d12741dc)
+* [Lecture on 25.4.2025: Components and spanning trees](https://www.helsinki.fi/fi/unitube/video/6d326561-3da6-40f1-8e3e-067609222fab)
+* Lecture on 2.5.2025: Maximum flow
+
 
  
